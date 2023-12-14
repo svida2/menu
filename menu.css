@@ -1,0 +1,14 @@
+section {
+    display: flex;
+    height:100vh;
+}
+.first_menu {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+}
+
+img {
+	height: 25;
+	Width:
+}
